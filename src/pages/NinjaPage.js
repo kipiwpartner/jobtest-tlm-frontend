@@ -66,8 +66,7 @@ export const NinjaPage = () => {
                 <strong>The exact values can be used!</strong>{" "}
               </p>
               <p>
-                The name is based on a list of technology buzzwords (Awesome
-                List)
+                The name is based on a list of technology buzzwords
               </p>
             </div>
             <div className="card__face card__face--back">
